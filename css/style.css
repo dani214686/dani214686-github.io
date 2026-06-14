@@ -14,7 +14,7 @@ html {
 
 * {
     box-sizing: border-box;
-    transition: background-color 2s ease, color 0.5s ease, font-size 0.5s ease;
+    transition: all 0.8s ease-in-out;
 }
 
 body {
@@ -29,7 +29,7 @@ body {
 
 .main {
     padding: 75px;
-    margin: 20px 200px;
+    margin: 50px 200px;
     background-color: var(--bg-box);
     border-radius: 5px;
 }
@@ -210,7 +210,7 @@ i {
     border-radius: 50px;
     background-color: var(--bg-box);
     padding: 55px;
-    margin: 15px 250px;
+    margin: 50px 250px;
 }
 
 .tituloindex {

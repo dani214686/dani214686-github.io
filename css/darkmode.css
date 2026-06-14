@@ -100,3 +100,7 @@
 .darkmode .barcontent:hover {
     background-color: #2b1620d1;
 }
+
+.darkmode .icones i {
+    color: #fd789d;
+}
